@@ -1,0 +1,65 @@
+Question 1
+Work from home attendance record.
+
+
+
+Provide Test Scenarios, Test Cases, and Test Steps for the below scenario:
+
+
+
+Work from home request page contains the following web elements:
+
+Employee name auto-populated in Employee label
+Dropdown to select the Leave Type [Short term WFH and Long term WFH]
+A calender to select From date 
+A calender to select To date
+Dropdown to select project code
+Textbox to enter Remarks
+Button to submit the details
+Button to close Work from home request window   
+Button to click on attendance log
+Checkbox to select the WFH option
+Grid to display Employee name, From date To date, project code, remarks, and status
+ 
+
+Assumptions: 
+
+The user is already logged in.
+
+
+
+
+
+Output:  
+
+An Excel Sheet following naming standard [(Relevel_{name}] having Test Scenarios in the first tab, Test Case, and  Test Steps in the second tab.
+Should Cover positive and Negative Test scenarios.
+The candidate needs to provide test data for scenarios, both positive and negative.
+
+
+Validations :
+
+
+
+Work from home request date cannot exceed 30 days
+The past date cannot be acceptable
+All fields are mandatory
+The grid shows a record, and the status shows pending until the manager approves it
+
+
+Dos:
+
+
+
+Have questions regarding Software Testing that a candidate is likely to encounter.
+Questions should involve reasoning from and extension of known concepts as much as possible.
+
+
+
+
+Don’ts:
+
+
+
+Each question must test understanding of the concept and not mere memorization: No student must be able to answer a question because he/she recollects the same script as the question from a resource. This does not merely imply changing the syntax of the question.
+Obscure or very niche terms/ concepts must not be tested. No student must be unable to answer a question because the question tests recollection of an arcane term.

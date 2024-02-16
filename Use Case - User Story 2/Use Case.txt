@@ -1,0 +1,71 @@
+Use Case for Application page with Calendar, Uploading file with checkbox and radio button options.
+
+ 
+
+ 
+
+User Story: 
+
+As a user, I need to fill a form which has a Calendar, Uploading file with checkbox and radio button as page elements. 
+
+ 
+
+Write all the positive and negative Test Scenarios, Test Case, Test Steps for the following application page.
+
+ 
+
+Image : Click here
+
+ 
+
+ Criteria :
+
+ 
+
+Gender:          Type: Radio Button          
+
+Mobile:           Type: Text Box                Range 10 Digit max.
+
+Date of Birth   Type: Calendar
+
+Subjects: Type. Type: Textbox                Range: Min 5 character to Max 20 Character
+
+Hobbies           Type: Checkbox
+
+Picture             Type: File
+
+ 
+
+ 
+
+Assumptions: 
+
+ 
+
+The user needs to provide test data for positive and negative test scenarios. 
+
+ 
+
+ 
+
+Output:  
+
+ 
+
+An Excel Sheet following the naming standard [(Relevel_{name}],  having Test Scenarios in the first tab with Test Scenario ID, Test Case &  Test Steps in the second tab with Test CaseID. 
+
+ 
+
+ 
+
+Expectation from the candidate:
+
+ 
+
+Should cover positive and negative test scenarios.
+
+User needs to provide test data for scenarios (both positive and negative).
+
+Test scenarios must cover a successful End to End scenario.
+
+The user can provide any number of Test Scenarios, and Test Cases for successful level completion.

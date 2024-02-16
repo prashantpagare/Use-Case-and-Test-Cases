@@ -1,0 +1,50 @@
+Question 1
+Use Case for Login an Application
+
+As a user, I should be able to log into an application which has the following elements on the log in page:
+
+·      Username           Type: Textbox
+
+·      Password            Type: Password Text Box
+
+·      Login                   Type: button
+
+·      Forget Password  Type: button
+
+
+
+Write all the positive and negative test scenarios, test cases, and test steps for the login page of the application.
+
+ 
+
+Criteria:
+
+Username: Minimum 5 to maximum 15 alphanumeric characters
+
+Password: Minimum 7 to maximum 20 alphanumeric characters (special character allows)
+
+
+
+Assumptions:
+
+The candidate needs to provide test data for positive and negative test scenarios.
+
+
+
+Output:
+
+▪         An excel sheet following the standard naming convention having Test Scenarios in the first tab, Test Case & Test Steps in the second tab.
+
+ 
+
+ 
+
+Expectations from the candidate:
+
+·      Should cover the positive and negative test scenarios
+
+·      Candidate needs to provide test data for both positive and negative scenarios
+
+·      Test scenarios must cover a successful end-to-end scenario
+
+·      Candidate can provide any number of test scenarios and test cases for successful level completion
